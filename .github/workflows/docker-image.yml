@@ -26,4 +26,4 @@ jobs:
     - name: Docker Push
       run: docker push ${{secrets.DOCKER_USER}}/shoppinglistapp:${{ github.sha }}
     - name: Docker Push Latest
-      run: docker push ${{secrets.DOCKER_USER}}/shoppinglistapp:${{ github.sha }}
+      run: docker push ${{secrets.DOCKER_USER}}/shoppinglistapp:latest
