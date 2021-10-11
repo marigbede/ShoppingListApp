@@ -3,10 +3,12 @@ from ShoppingListApp.models.shoppingListModel import ShoppingList
 from ShoppingListApp.enums.shoppingListItemStatus import ShoppingListItemStatus
 from ShoppingListApp.utility import ResponseProcessors
 
+""" internal logic for api processing """
+
 
 class ShoppingListLogic:
     def get_shopping_list_items(self):
-        return ResponseProcessors\
+        return ResponseProcessors \
             .success(GetShoppingListSerializer(ShoppingList.objects.all().order_by('itemName'), many=True).data)
 
     def get_shopping_list_item(self, item_id):
