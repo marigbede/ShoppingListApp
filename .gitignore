@@ -10,7 +10,7 @@ media
 *.bak
 
 # If you are using PyCharm #
-.idea/
+/.idea/
 *.iws /out/
 
 # Python #
@@ -47,3 +47,4 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/venv/

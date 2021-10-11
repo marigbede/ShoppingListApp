@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a22281a-8065-4da4-827d-cd5543f61bb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zBAN3mbAoIKxGa6HMQAY0qINMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ShoppingListApp/static/ShoppingListApp/js" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\msoft\PycharmProjects\ShoppingListApp" />
+      <recent name="C:\Users\msoft\PycharmProjects\ShoppingListApp\ShoppingListApp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\msoft\PycharmProjects\ShoppingListApp\ShoppingListApp\static\ShoppingListApp\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.ShoppingListApp">
+    <configuration name="ShoppingListApp" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ShoppingListApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ShoppingListApp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShoppingListApp/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="ShoppingListApp/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.ShoppingListApp/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a22281a-8065-4da4-827d-cd5543f61bb7" name="Default Changelist" comment="" />
+      <created>1633611063771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633611063771</updated>
+      <workItem from="1633611103684" duration="73564000" />
+      <workItem from="1633933265624" duration="16452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="0" key="#ShoppingListApp/Dockerfile" timestamp="1633933317297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="0" key="#ShoppingListApp/Dockerfile/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933317297" />
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633944096670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633944096670" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1633933993893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633933993893" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1633611422862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633611422862" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1633898421687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1633898421687" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ShoppingListApp$.coverage" NAME=" Coverage Results" MODIFIED="1633933584795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
