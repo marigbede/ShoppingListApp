@@ -16,11 +16,10 @@ jobs:
       env:
         DOCKER_USER: ${{secrets.DOCKER_USER}}
         DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
-        SHA: ${{ github.sha }}
       run: |
         docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag shoppinglistapp:$SHA
+      run: docker build . --file Dockerfile --tag shoppinglistapp:${{ github.sha }}
       
     - name: Docker Push
       run: docker push $DOCKER_USER/shoppinglistapp
