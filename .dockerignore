@@ -1,0 +1,7 @@
+__pycache__
+.idea
+*.pyc
+env/
+venv/
+db.sqlite3
+DockerFile
