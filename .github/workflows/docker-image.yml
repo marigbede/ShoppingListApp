@@ -12,14 +12,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: docker login
+    - name: Docker Login
       env:
         DOCKER_USER: ${{secrets.DOCKER_USER}}
         DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
       run: |
         docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-    - name: Build the Docker image
+    - name: Build the Docker Image
       run: docker build . --file Dockerfile --tag shoppinglistapp:${{ github.sha }}
       
     - name: Docker Push
-      run: docker push ${{secrets.DOCKER_USER}}/shoppinglistapp
+      run: docker push ${{secrets.DOCKER_USER}}/shoppinglistapp:${{ github.sha }}
