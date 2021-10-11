@@ -22,4 +22,4 @@ jobs:
       run: docker build . --file Dockerfile --tag shoppinglistapp:${{ github.sha }}
       
     - name: Docker Push
-      run: docker push $DOCKER_USER/shoppinglistapp
+      run: docker push ${{secrets.DOCKER_USER}}${{secrets.DOCKER_USER}}/shoppinglistapp
